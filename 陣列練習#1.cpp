@@ -4,9 +4,9 @@ using namespace std;
 
 int main(){
 	int n;
-	cin>>n;
+	cin>>n;//輸入會有幾個數字
 	int a[n];//宣告一個為n的陣列 
-	for (int j=0; j<n;j++ )//輸入會有幾個數字 
+	for (int j=0; j<n;j++ ) 
 	{
 		cin>>a[j];//輸入數字
 	}
