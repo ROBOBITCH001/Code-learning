@@ -3,9 +3,8 @@ using namespace std;
 int main()
 {
 	int num;
-	int mov = '=';
 	string d1,d2;
-	cin>>num>>mov;
+	cin>>num;
 	
 	for (int i=0;i<num; ++i) {
 		cin >> d1 >> d2;
@@ -19,7 +18,7 @@ int main()
 			else 
 				cout<<'*';
 			} 
-		cout<<'\n'<<'\n';
+		cout<<'\n''\n';
 		
 	}
 	
