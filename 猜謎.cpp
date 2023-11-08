@@ -49,19 +49,5 @@ int main()
         if (continuechose == 'n')
                 return 0;
     }
-    
-  
-        
-
-
-
-
-
-
-
-
-
-
-
 }
 
